@@ -8,7 +8,6 @@
 
 ## Research/work Experience
 2021.01-present   青年研究员 Fudan University
-
 2016.11-2021.01   Research fellow   Nanyang Technological University, Singapore
 
 2015.06-2016.10   Algorithm engineer   Huawei Technologies Co., Ltd, Beijing
